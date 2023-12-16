@@ -41,7 +41,7 @@ public class First {
 			 prop = new Properties();
 			prop.load(file);
 		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
+			
 			e.printStackTrace();
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
